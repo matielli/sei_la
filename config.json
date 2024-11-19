@@ -7,4 +7,7 @@
         "greeting": "Olá, mundo!",
         "farewell": "Adeus!"
     }
+    "es":{
+    "greeting": "Hola Mundo!",
+    "farewell": "Adios!"
 }
